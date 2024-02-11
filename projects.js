@@ -2,29 +2,29 @@ const projects = [{
     title: "Netflix Clone",
     description: "Netflix clone built using React, tailwind and Headless UI",
     coverUrl: "https://screenshot-proxy.netlify.app/f_avif,w_400/https://d33wubrfki0l68.cloudfront.net/6384cf1727e2837c8bf48bd3/screenshot_2022-11-28-15-09-17-0000.png",
-    demoLink: "https://netflix-clone-dn3.netlify.app/",
+    demoLink: "",
     sourceLink: ""
 },
 {
     title: "Ecommerce App",
     description: "Ecommece app built using React, Material UI, Redux Toolkit",
     coverUrl: "https://screenshot-proxy.netlify.app/f_avif,w_400/https://d33wubrfki0l68.cloudfront.net/6384cf1727e2837c8bf48bd3/screenshot_2022-11-28-15-09-17-0000.png",
-    demoLink: "https://netflix-clone-dn3.netlify.app/",
-    sourceLink: "https://github.com/devs-nest/dn3-ecommerce-app"
+    demoLink: "",
+    sourceLink: ""
 },
 {
     title: "Spotify Clone",
     description: "Spotify Clone created using Vanilla JS, Tailwind CSS, Vite",
     coverUrl: "https://screenshot-proxy.netlify.app/f_jpg,w_400/https://d33wubrfki0l68.cloudfront.net/6364b8ef2b514000096450a7/screenshot_2022-11-04-07-02-55-0000.png",
-    demoLink: "https://spotify-clone-gs.netlify.app/",
-    sourceLink: "https://github.com/devs-nest/DN3-SpotifyClone"
+    demoLink: "",
+    sourceLink: ""
 },
 {
     title: "Weather App",
     description: "Uses geolocaiton and open weather api. Created using JS, HTML, CSS",
     coverUrl: "https://screenshot-proxy.netlify.app/f_jpg,w_400/https://d33wubrfki0l68.cloudfront.net/6364b8ef2b514000096450a7/screenshot_2022-11-04-07-02-55-0000.png",
-    demoLink: "https://netflix-clone-dn3.netlify.app/",
-    sourceLink: "https://github.com/devs-nest/DN3-Frontend-Streams/tree/main/Day%2013%20%26%2014%20-%20Weather%20app"
+    demoLink: "",
+    sourceLink: ""
 },
 ];
 
